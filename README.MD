@@ -23,7 +23,7 @@
 ![GitHub-Actions](https://img.shields.io/badge/-GitHub%20Actions-%23181717?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=node&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-grey?&style=for-the-badge&logo=node.js&logoColor=green)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?&style=for-the-badge&logo=Graphql&logoColor=FF55C5)
 ---
 
