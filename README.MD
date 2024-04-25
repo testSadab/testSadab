@@ -1,8 +1,11 @@
 
 <h2 align="center">Hey there 👋, I'm Mdohammad Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
+<p align="left"> 
 <img src="./images/programmer.gif" alt="Coder GIF" width="300">
+</p>
 
+<p align="right"> 
 ---
 **Languages and Tools:**
 
@@ -25,6 +28,8 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
 
 ---
+</p>
+
 ####  Statistics
 
 <p align="left"> 
