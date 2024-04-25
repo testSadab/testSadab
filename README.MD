@@ -3,7 +3,6 @@
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 
 <img src="./images/programmer.gif" alt="Coder GIF" width="300">
-</p>
 
 ---
 **Languages and Tools:**
