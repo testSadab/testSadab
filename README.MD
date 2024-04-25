@@ -1,14 +1,12 @@
 
 <h2 align="center">Hey there 👋, I'm Mdohammad Sadab Saqib</h2>
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
-<p align="left"> 
+
 <img src="./images/programmer.gif" alt="Coder GIF" width="300">
 </p>
 
-<p align="right"> 
 ---
 **Languages and Tools:**
-
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -26,9 +24,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
-
 ---
-</p>
 
 ####  Statistics
 
